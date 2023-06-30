@@ -1,5 +1,7 @@
 # 07_flex
 
+https://tutorial.techaltum.com/css-flexbox.html#:~:text=Flex%20is%20the%20value%20of,auto%20width%20and%20auto%20height.
+
 ## Project setup
 ```
 npm install
